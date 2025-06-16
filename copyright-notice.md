@@ -1,11 +1,11 @@
 # Copyright Notice for Tydy
 
-**Last Updated: [DATE]**
+**Last Updated: June 16, 2025**
 
 ## Copyright Information
 
 ### Application Copyright
-© [YEAR] Ceanic. All rights reserved.
+© 2025 Ceanic. All rights reserved.
 
 The Tydy mobile application, including but not limited to its source code, design, graphics, user interface, features, and functionality, is owned by Ceanic and is protected by copyright, trademark, and other intellectual property laws.
 
@@ -86,9 +86,8 @@ When using Tydy materials under fair use:
 ### Copyright Infringement Claims
 If you believe content in Tydy infringes your copyright:
 
-**DMCA Agent Contact:**
-- **Email**: dmca@tydy.app
-- **Mail**: Ceanic DMCA Agent, [Your Address]
+**DMCA Contact:**
+- **Email**: karoljaworsky@gmail.com
 
 ### Required Information for DMCA Claims
 Include in your notice:
@@ -165,15 +164,11 @@ This copyright notice may be updated to reflect:
 ## Contact Information
 
 For copyright, trademark, or intellectual property inquiries:
-
-**Legal Department**: legal@tydy.app  
-**DMCA Agent**: dmca@tydy.app  
-**General Inquiries**: info@tydy.app  
-**Mail**: Ceanic Legal Department, [Your Address]
+karoljaworsky@gmail.com
 
 ## Effective Date
 
-This copyright notice is effective as of [DATE] and applies to all versions of the Tydy mobile application.
+This copyright notice is effective as of June 16th 2025 and applies to all versions of the Tydy mobile application.
 
 ---
 
