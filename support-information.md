@@ -5,19 +5,11 @@
 ## Contact Support
 
 ### General Support
-- **Email**: support@tydy.app
-- **Response Time**: 2-3 business days
-- **Hours**: Monday-Friday, 9 AM - 5 PM [YOUR TIMEZONE]
-
-### Premium Support
-- **Email**: premium@tydy.app
-- **Response Time**: 24-48 hours
-- **Priority**: High priority for premium subscribers
-- **Features**: Enhanced troubleshooting and feature guidance
+karoljaworsky@gmail.com
 
 ### Emergency Issues
 For critical app-breaking issues:
-- **Email**: urgent@tydy.app
+- **Email**: karoljaworsky@gmail.com
 - **Include**: Device model, iOS version, app version, detailed description
 
 ## Frequently Asked Questions
@@ -150,22 +142,11 @@ A: The timer continues running in the background and will resume when you return
 ## Data and Privacy Support
 
 ### Account Deletion
-To delete your account and all associated data:
-1. Email support@tydy.app with subject "Account Deletion Request"
-2. Include your Apple ID email for verification
-3. Allow 7-10 business days for complete removal
-4. Note: This action is irreversible
-
-### Data Export
-To export your cleaning data:
-1. Email support@tydy.app with subject "Data Export Request"
-2. Specify desired format (CSV, JSON, PDF)
-3. Premium users receive priority processing
-4. Data will be emailed within 5 business days
+To delete your account and all associated data, you can do it in app.
 
 ### Privacy Concerns
 For privacy-related questions:
-- Email: privacy@tydy.app
+- Email: karoljaworsky@gmail.com
 - Review our Privacy Policy for detailed information
 - EU users have additional rights under GDPR
 
@@ -173,13 +154,13 @@ For privacy-related questions:
 
 ### Suggesting New Features
 We love hearing from users! Submit feature requests:
-- **Email**: feedback@tydy.app
+- **Email**: karoljaworsky@gmail.com
 - **Include**: Detailed description and use case
 - **Priority**: Premium users receive priority consideration
 
 ### Bug Reports
 Help us improve Tydy by reporting bugs:
-- **Email**: bugs@tydy.app
+- **Email**: karoljaworsky@gmail.com
 - **Include**: 
   - Device model and iOS version
   - Tydy app version
@@ -188,13 +169,6 @@ Help us improve Tydy by reporting bugs:
 
 ### App Store Reviews
 Leave reviews and ratings on the App Store to help other users discover Tydy!
-
-## Community and Resources
-
-### Updates and News
-- Follow app updates through the App Store
-- Check our website: [YOUR WEBSITE]
-- Social media: [YOUR SOCIAL HANDLES]
 
 ### Tips and Tricks
 - Use the Daily Sparkle for quick motivation boosts
@@ -205,11 +179,11 @@ Leave reviews and ratings on the App Store to help other users discover Tydy!
 ## Business and Partnership Inquiries
 
 ### Business Support
-- **Email**: business@tydy.app
+- **Email**: karoljaworsky@gmail.com
 - **For**: Partnership inquiries, bulk licensing, enterprise features
 
 ### Media and Press
-- **Email**: press@tydy.app
+- **Email**: karoljaworsky@gmail.com
 - **For**: Media inquiries, interview requests, press releases
 
 ## Response Time Expectations
@@ -226,18 +200,3 @@ Leave reviews and ratings on the App Store to help other users discover Tydy!
 ### Business Inquiries
 - **Response Time**: 1-2 business days
 - **Follow-up**: Dedicated account management for enterprise customers
-
-## International Support
-
-### Language Support
-- **Primary**: English
-- **Additional**: [List supported languages]
-- **Translation**: Automated translation available for basic support
-
-### Time Zones
-- **Primary Support**: [YOUR TIMEZONE]
-- **Global**: Email support available 24/7 with response within business hours
-
----
-
-**Need immediate help?** Email support@tydy.app with your question and device details. We're here to make your Tydy experience as smooth and enjoyable as possible! 
