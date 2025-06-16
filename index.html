@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tydy - Legal Documents</title>
+    <meta name="description" content="Legal documents and policies for the Tydy cleaning app - Privacy Policy, Terms of Service, Subscription Terms, and Support Information.">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #1a2633;
+            background: linear-gradient(135deg, #fafdff 0%, #f5faff 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding: 2rem 0;
+            background: linear-gradient(135deg, #3399ff, #00ccff);
+            border-radius: 24px;
+            color: white;
+            box-shadow: 0 10px 30px rgba(51, 153, 255, 0.2);
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.95;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .legal-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        
+        .legal-card {
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+            border: 1px solid rgba(51, 153, 255, 0.1);
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+        
+        .legal-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 30px rgba(51, 153, 255, 0.15);
+            border-color: rgba(51, 153, 255, 0.2);
+        }
+        
+        .legal-card h3 {
+            color: #3399ff;
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .legal-card p {
+            color: #4d6680;
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+        
+        .legal-card .meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #f0f7ff;
+            font-size: 0.9rem;
+            color: #80a0b3;
+        }
+        
+        .icon {
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 2rem 0;
+            border-top: 1px solid rgba(51, 153, 255, 0.1);
+            margin-top: 2rem;
+        }
+        
+        .footer p {
+            color: #4d6680;
+            margin-bottom: 1rem;
+        }
+        
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+            margin-top: 1rem;
+        }
+        
+        .contact-item {
+            color: #3399ff;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .contact-item:hover {
+            text-decoration: underline;
+        }
+        
+        .app-store-link {
+            display: inline-block;
+            margin: 2rem 0;
+            background: #000;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .app-store-link:hover {
+            background: #333;
+            transform: translateY(-2px);
+        }
+        
+        .last-updated {
+            background: #f0f7ff;
+            border: 1px solid rgba(51, 153, 255, 0.2);
+            border-radius: 12px;
+            padding: 1rem;
+            margin: 2rem 0;
+            text-align: center;
+            color: #4d6680;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .legal-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .contact-info {
+                flex-direction: column;
+                gap: 1rem;
+            }
+        }
+        
+        /* Accessibility improvements */
+        @media (prefers-reduced-motion: reduce) {
+            .legal-card {
+                transition: none;
+            }
+            
+            .legal-card:hover {
+                transform: none;
+            }
+        }
+        
+        /* Focus styles for accessibility */
+        .legal-card:focus {
+            outline: 2px solid #3399ff;
+            outline-offset: 2px;
+        }
+        
+        .contact-item:focus {
+            outline: 2px solid #3399ff;
+            outline-offset: 2px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>📱 Tydy Legal Documents</h1>
+            <p>Clean, track, flex. Review our policies and terms for the Tydy cleaning app.</p>
+        </header>
+        
+        <div class="last-updated">
+            <strong>Last Updated:</strong> [DATE] • All documents current as of this date
+        </div>
+        
+        <section class="legal-grid">
+            <a href="privacy-policy.html" class="legal-card" aria-label="View Privacy Policy">
+                <h3>
+                    <span class="icon">🔒</span>
+                    Privacy Policy
+                </h3>
+                <p>Learn how we collect, use, and protect your personal information when you use Tydy. Includes details about AI photo analysis, data storage, and your privacy rights.</p>
+                <div class="meta">
+                    <span>Essential Reading</span>
+                    <span>5 min read</span>
+                </div>
+            </a>
+            
+            <a href="terms-of-service.html" class="legal-card" aria-label="View Terms of Service">
+                <h3>
+                    <span class="icon">📋</span>
+                    Terms of Service
+                </h3>
+                <p>The rules and guidelines for using Tydy's features, including task management, AI assistance, and account responsibilities.</p>
+                <div class="meta">
+                    <span>User Agreement</span>
+                    <span>7 min read</span>
+                </div>
+            </a>
+            
+            <a href="subscription-terms.html" class="legal-card" aria-label="View Subscription Terms">
+                <h3>
+                    <span class="icon">💎</span>
+                    Subscription Terms
+                </h3>
+                <p>Details about Tydy Premium subscriptions, billing, cancellation, and the difference between free and premium features.</p>
+                <div class="meta">
+                    <span>Premium Users</span>
+                    <span>6 min read</span>
+                </div>
+            </a>
+            
+            <a href="eula.html" class="legal-card" aria-label="View End User License Agreement">
+                <h3>
+                    <span class="icon">⚖️</span>
+                    End User License Agreement
+                </h3>
+                <p>Tydy uses Apple's standard EULA for iOS apps. Learn about your software license rights and restrictions.</p>
+                <div class="meta">
+                    <span>Apple Standard</span>
+                    <span>Reference</span>
+                </div>
+            </a>
+            
+            <a href="copyright-notice.html" class="legal-card" aria-label="View Copyright Notice">
+                <h3>
+                    <span class="icon">©️</span>
+                    Copyright Notice
+                </h3>
+                <p>Information about Tydy's intellectual property, trademarks, third-party acknowledgments, and DMCA procedures.</p>
+                <div class="meta">
+                    <span>IP Rights</span>
+                    <span>4 min read</span>
+                </div>
+            </a>
+            
+            <a href="support-information.html" class="legal-card" aria-label="View Support Information">
+                <h3>
+                    <span class="icon">🛟</span>
+                    Support Information
+                </h3>
+                <p>Get help with Tydy! FAQ, troubleshooting guides, contact information, and technical requirements.</p>
+                <div class="meta">
+                    <span>Need Help?</span>
+                    <span>Reference</span>
+                </div>
+            </a>
+        </section>
+        
+        <div style="text-align: center;">
+            <a href="#" class="app-store-link" aria-label="Download Tydy from the App Store">
+                📱 Download Tydy from App Store
+            </a>
+        </div>
+        
+        <footer class="footer">
+            <p><strong>Tydy by Ceanic</strong> • Making cleaning enjoyable through beautiful design and smart technology</p>
+            
+            <div class="contact-info">
+                <a href="mailto:legal@tydy.app" class="contact-item">📧 Legal Inquiries</a>
+                <a href="mailto:support@tydy.app" class="contact-item">🆘 General Support</a>
+                <a href="mailto:premium@tydy.app" class="contact-item">💎 Premium Support</a>
+                <a href="mailto:privacy@tydy.app" class="contact-item">🔒 Privacy Questions</a>
+            </div>
+            
+            <p style="margin-top: 2rem; font-size: 0.9rem; color: #80a0b3;">
+                These documents are hosted on GitHub Pages for transparency and easy access.<br>
+                For the most current versions, always refer to this page.
+            </p>
+        </footer>
+    </div>
+    
+    <!-- Accessibility: Skip to main content -->
+    <a href="#main" style="position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden;" 
+       onfocus="this.style.position='static'; this.style.width='auto'; this.style.height='auto';">
+        Skip to main content
+    </a>
+    
+    <script>
+        // Simple analytics for document access (if needed)
+        document.addEventListener('DOMContentLoaded', function() {
+            // Track page view
+            console.log('Legal documents page loaded');
+            
+            // Track which documents are accessed
+            document.querySelectorAll('.legal-card').forEach(function(card) {
+                card.addEventListener('click', function() {
+                    const documentName = this.querySelector('h3').textContent.trim();
+                    console.log('Accessed document:', documentName);
+                });
+            });
+        });
+        
+        // Add loading state for document links
+        document.querySelectorAll('.legal-card').forEach(function(card) {
+            card.addEventListener('click', function(e) {
+                this.style.opacity = '0.7';
+                this.querySelector('h3').textContent = 'Loading...';
+            });
+        });
+    </script>
+</body>
+</html> 
