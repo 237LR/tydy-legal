@@ -51,7 +51,7 @@ You agree to comply with both:
 
 ### For EULA Questions
 - **Apple Support**: For questions about software licensing rights
-- **Ceanic Support**: legal@tydy.app for questions about service terms
+- **Ceanic Support**: karoljaworsky@gmail.com for questions about service terms
 
 ### Legal Hierarchy
 In case of conflicts between documents:
@@ -95,11 +95,8 @@ Remember that multiple agreements govern your use of Tydy:
 
 ### Questions and Support
 
-For questions about:
-- **Software licensing rights**: Contact Apple Support
-- **Tydy service features**: Contact support@tydy.app
-- **Account and billing**: Contact premium@tydy.app
-- **Legal matters**: Contact legal@tydy.app
+For questions:
+karoljaworsky@gmail.com
 
 ---
 
