@@ -148,8 +148,7 @@ Tydy offers premium subscription plans that unlock additional features and enhan
 - Enhanced troubleshooting assistance
 
 ### Contact Information
-- Premium Support: premium@tydy.app
-- General Support: support@tydy.app
+karoljaworsky@gmail.com
 - Response time: 24-48 hours for premium users
 
 ## Legal and Compliance
@@ -179,10 +178,7 @@ Tydy offers premium subscription plans that unlock additional features and enhan
 ## Contact Information
 
 For questions about subscriptions:
-
-**Premium Support**: premium@tydy.app  
-**General Inquiries**: support@tydy.app  
-**Billing Questions**: Contact Apple Support directly
+karoljaworsky@gmail.com
 
 ## Integration with Terms of Service
 
