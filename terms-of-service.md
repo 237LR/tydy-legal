@@ -138,7 +138,7 @@ Continued use after changes constitutes acceptance of the new Terms.
 
 ## Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of [YOUR JURISDICTION], without regard to conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of Poland, without regard to conflict of law principles.
 
 ## Dispute Resolution
 
@@ -156,8 +156,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 If you have any questions about these Terms of Service:
 
-**Email**: legal@tydy.app  
-**Mail**: Ceanic, [Your Address]
+**Email**: karoljaworsky@gmail.com
 
 ## Entire Agreement
 
@@ -165,4 +164,4 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 ---
 
-*These Terms of Service are effective as of [DATE] and apply to all users of the Tydy mobile application.* 
+*These Terms of Service are effective as of June 16th 2025 and apply to all users of the Tydy mobile application.* 
