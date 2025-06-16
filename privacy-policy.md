@@ -71,7 +71,7 @@ Depending on your location, you may have the following rights:
 - **Opt-out**: Unsubscribe from notifications
 
 ### Exercising Your Rights
-To exercise these rights, contact us at privacy@tydy.app
+To exercise these rights, contact us at karoljaworsky@gmail.com
 
 ## Children's Privacy
 
@@ -99,8 +99,7 @@ We may update this Privacy Policy periodically. We will notify you of any materi
 
 If you have questions about this Privacy Policy or our privacy practices:
 
-**Email**: privacy@tydy.app  
-**Mail**: Ceanic, [Your Address]
+**Email**: karoljaworsky@gmail.com
 
 For EU residents, you have the right to lodge a complaint with your local data protection authority.
 
