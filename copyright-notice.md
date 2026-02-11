@@ -1,23 +1,23 @@
 # Copyright Notice for Tydy
 
-**Last Updated: June 16, 2025**
+**Last Updated: February 7, 2026**
 
 ## Copyright Information
 
 ### Application Copyright
-© 2025 Ceanic. All rights reserved.
+© 2026 Karol Jaworski. All rights reserved.
 
-The Tydy mobile application, including but not limited to its source code, design, graphics, user interface, features, and functionality, is owned by Ceanic and is protected by copyright, trademark, and other intellectual property laws.
+The Tydy mobile application, including but not limited to its source code, design, graphics, user interface, features, and functionality, is owned by Karol Jaworski and is protected by copyright, trademark, and other intellectual property laws.
 
 ### Trademark Information
-- **Tydy™** is a trademark of Ceanic
-- **"Clean, track, flex"** is a trademark slogan of Ceanic
+- **Tydy™** is a trademark of Karol Jaworski
+- **"Clean, track, flex"** is a trademark slogan of Karol Jaworski
 - All logos, brand names, and service marks displayed in the application are trademarks of their respective owners
 
 ## Intellectual Property Rights
 
 ### Proprietary Content
-The following elements are proprietary to Ceanic:
+The following elements are proprietary to Karol Jaworski:
 - Tydy application design and user interface
 - Cleanliness scoring algorithm and methodology
 - Badge and achievement system design
@@ -58,11 +58,11 @@ The following elements are proprietary to Ceanic:
 
 ### User Ownership
 - Users retain ownership of photos and content they upload to the application
-- Users grant Ceanic a limited license to process uploaded content for service provision
-- User content is not claimed as proprietary to Ceanic
+- Users grant Karol Jaworski a limited license to process uploaded content for service provision
+- User content is not claimed as proprietary to Karol Jaworski
 
 ### License Grant
-By uploading content to Tydy, users grant Ceanic:
+By uploading content to Tydy, users grant Karol Jaworski:
 - A non-exclusive license to process photos for AI analysis
 - Permission to display user-created task lists within the application
 - Rights to use aggregated, anonymized data for service improvement
@@ -78,7 +78,7 @@ Limited use of Tydy screenshots and materials may be permitted for:
 ### Required Attribution
 When using Tydy materials under fair use:
 - Credit "Tydy by Ceanic"
-- Include copyright notice "© [YEAR] Ceanic"
+- Include copyright notice "© 2026 Karol Jaworski"
 - Provide link to official app store listing when possible
 
 ## Digital Millennium Copyright Act (DMCA)
@@ -86,8 +86,9 @@ When using Tydy materials under fair use:
 ### Copyright Infringement Claims
 If you believe content in Tydy infringes your copyright:
 
-**DMCA Contact:**
+**DMCA Agent Contact:**
 - **Email**: karoljaworsky@gmail.com
+- **Mail**: Contact via email
 
 ### Required Information for DMCA Claims
 Include in your notice:
@@ -112,7 +113,7 @@ If you believe content was removed in error, you may submit a counter-notificati
 
 ### License Compliance
 - All open source components are used in accordance with their respective licenses
-- Source code for open source components can be obtained by contacting legal@tydy.app
+- Source code for open source components can be obtained by contacting karoljaworsky@gmail.com
 - Required license texts and attributions are included in the application
 
 ## International Copyright
@@ -138,12 +139,12 @@ The following uses are strictly prohibited:
 - Creating competing applications using Tydy's proprietary elements
 
 ### Commercial Use
-Commercial use of Tydy's intellectual property requires explicit written permission from Ceanic.
+Commercial use of Tydy's intellectual property requires explicit written permission from Karol Jaworski.
 
 ## Patent Information
 
 ### Patent Applications
-Ceanic may seek patent protection for innovative features and methodologies implemented in Tydy.
+Karol Jaworski may seek patent protection for innovative features and methodologies implemented in Tydy.
 
 ### Patent Compliance
 Users agree not to implement patented features in competing applications without proper licensing.
@@ -152,7 +153,7 @@ Users agree not to implement patented features in competing applications without
 
 ### Content Updates
 - New features and content additions are automatically protected under copyright
-- Updated visual elements and designs are proprietary to Ceanic
+- Updated visual elements and designs are proprietary to Karol Jaworski
 - Version updates may include additional third-party acknowledgments
 
 ### Notice Updates
@@ -164,11 +165,15 @@ This copyright notice may be updated to reflect:
 ## Contact Information
 
 For copyright, trademark, or intellectual property inquiries:
-karoljaworsky@gmail.com
+
+**Legal Department**: karoljaworsky@gmail.com
+**DMCA Agent**: karoljaworsky@gmail.com
+**General Inquiries**: karoljaworsky@gmail.com
+**Mail**: Contact via email
 
 ## Effective Date
 
-This copyright notice is effective as of June 16th 2025 and applies to all versions of the Tydy mobile application.
+This copyright notice is effective as of February 7, 2026 and applies to all versions of the Tydy mobile application.
 
 ---
 

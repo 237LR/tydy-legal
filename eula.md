@@ -1,6 +1,6 @@
 # End User License Agreement (EULA) for Tydy
 
-**Last Updated: [DATE]**
+**Last Updated: February 7, 2026**
 
 ## Apple Standard End User License Agreement
 
@@ -32,7 +32,7 @@ While Apple's EULA governs the software license, the following Tydy-specific ter
 - **Privacy Policy**: For data collection and usage practices
 - **Subscription Terms**: For premium feature subscriptions
 
-## Additional Ceanic Terms
+## Additional Karol Jaworski Terms
 
 ### Service-Specific Terms
 The Apple EULA covers the software license, but these additional terms govern your use of Tydy's services:
@@ -45,19 +45,19 @@ The Apple EULA covers the software license, but these additional terms govern yo
 ### Compliance Requirements
 You agree to comply with both:
 - Apple's Standard EULA (for software licensing)
-- Ceanic's Terms of Service (for service usage)
+- Karol Jaworski's Terms of Service (for service usage)
 
 ## Contact Information
 
 ### For EULA Questions
 - **Apple Support**: For questions about software licensing rights
-- **Ceanic Support**: karoljaworsky@gmail.com for questions about service terms
+- **Karol Jaworski Support**: karoljaworsky@gmail.com for questions about service terms
 
 ### Legal Hierarchy
 In case of conflicts between documents:
 1. Apple's Standard EULA (for software licensing matters)
-2. Ceanic's Terms of Service (for service-specific matters)
-3. Other Ceanic policies (Privacy Policy, Subscription Terms, etc.)
+2. Karol Jaworski's Terms of Service (for service-specific matters)
+3. Other Karol Jaworski policies (Privacy Policy, Subscription Terms, etc.)
 
 ## Modifications and Updates
 
@@ -67,7 +67,7 @@ In case of conflicts between documents:
 - Current version always available at Apple's official link above
 
 ### Service Terms Updates
-- Ceanic may update service-specific terms with notice
+- Karol Jaworski may update service-specific terms with notice
 - Material changes communicated through the app or email
 - Continued use constitutes acceptance of updated terms
 
@@ -81,7 +81,7 @@ As specified in Apple's Standard EULA:
 ## Important Notes
 
 ### No Custom EULA
-Ceanic has chosen to use Apple's standard EULA rather than creating a custom end user license agreement. This provides:
+Karol Jaworski has chosen to use Apple's standard EULA rather than creating a custom end user license agreement. This provides:
 - **Clarity**: Well-established terms familiar to iOS users
 - **Consistency**: Same licensing terms as other App Store applications
 - **Legal Certainty**: Proven legal framework supported by Apple
@@ -89,18 +89,21 @@ Ceanic has chosen to use Apple's standard EULA rather than creating a custom end
 ### Multiple Agreements
 Remember that multiple agreements govern your use of Tydy:
 - **Apple's EULA**: Software licensing (this document)
-- **Ceanic's Terms of Service**: Service usage rules
+- **Karol Jaworski's Terms of Service**: Service usage rules
 - **Privacy Policy**: Data practices
 - **Subscription Terms**: Premium feature billing
 
 ### Questions and Support
 
-For questions:
-karoljaworsky@gmail.com
+For questions about:
+- **Software licensing rights**: Contact Apple Support
+- **Tydy service features**: Contact karoljaworsky@gmail.com
+- **Account and billing**: Contact karoljaworsky@gmail.com
+- **Legal matters**: Contact karoljaworsky@gmail.com
 
 ---
 
 **Full EULA Text**: The complete Apple Standard End User License Agreement can be found at:  
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-*This reference document is effective as of [DATE] and applies to all Tydy app downloads from the Apple App Store.* 
+*This reference document is effective as of February 7, 2026 and applies to all Tydy app downloads from the Apple App Store.* 

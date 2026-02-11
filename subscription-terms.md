@@ -1,6 +1,6 @@
 # Subscription Terms for Tydy Premium
 
-**Last Updated: [DATE]**
+**Last Updated: February 7, 2026**
 
 ## Overview
 
@@ -8,27 +8,27 @@ Tydy offers premium subscription plans that unlock additional features and enhan
 
 ## Subscription Plans
 
-### Weekly Premium - $1.99/week
+### Monthly Premium - $4.99/month
 - Unlimited cleaning tasks and categories
 - Full AI photo analysis and cleaning guidance
 - Advanced Clean Card themes and customization
 - Priority customer support
 - Premium visual themes and animations
-
-### Monthly Premium - $4.99/month
-- All Weekly Premium features
-- Better value than weekly billing
 - Recommended for regular users
 
-### Yearly Premium - $19.99/year
+### Yearly Premium - $39.99/year
 - All Premium features
-- Best value - save over 65% compared to weekly
+- Best value - save over 33% compared to monthly
 - Ideal for committed users
+- Introductory first-year option available at $19.99/year for new subscribers
 
 ## Free vs Premium Features
 
 ### Free Tier Includes
-- Up to 5 recurring cleaning tasks
+- Up to 5 total tasks
+- Up to 3 recurring tasks
+- 3 AI scans per week
+- 30 days timeline history
 - Basic task management and completion tracking
 - Standard Cleanliness Score calculation
 - Basic Clean Cards
@@ -148,7 +148,8 @@ Tydy offers premium subscription plans that unlock additional features and enhan
 - Enhanced troubleshooting assistance
 
 ### Contact Information
-karoljaworsky@gmail.com
+- Premium Support: karoljaworsky@gmail.com
+- General Support: karoljaworsky@gmail.com
 - Response time: 24-48 hours for premium users
 
 ## Legal and Compliance
@@ -178,7 +179,11 @@ karoljaworsky@gmail.com
 ## Contact Information
 
 For questions about subscriptions:
-karoljaworsky@gmail.com
+
+**Premium Support**: karoljaworsky@gmail.com
+**General Inquiries**: karoljaworsky@gmail.com
+
+**Billing Questions**: Contact Apple Support directly
 
 ## Integration with Terms of Service
 
@@ -186,4 +191,4 @@ These Subscription Terms are part of and subject to our main Terms of Service. I
 
 ---
 
-*These Subscription Terms are effective as of [DATE] and apply to all Tydy Premium subscribers.* 
+*These Subscription Terms are effective as of February 7, 2026 and apply to all Tydy Premium subscribers.* 

@@ -1,11 +1,19 @@
 # Support Information for Tydy
 
-**Last Updated: [DATE]**
+**Last Updated: February 7, 2026**
 
 ## Contact Support
 
 ### General Support
-karoljaworsky@gmail.com
+- **Email**: karoljaworsky@gmail.com
+- **Response Time**: 2-3 business days
+- **Hours**: Monday-Friday, 9 AM - 5 PM CET (Central European Time)
+
+### Premium Support
+- **Email**: karoljaworsky@gmail.com
+- **Response Time**: 24-48 hours
+- **Priority**: High priority for premium subscribers
+- **Features**: Enhanced troubleshooting and feature guidance
 
 ### Emergency Issues
 For critical app-breaking issues:
@@ -31,7 +39,7 @@ A: Daily Sparkle is a bonus micro-task that changes daily (like "wipe light swit
 A: Premium includes unlimited tasks, full AI photo analysis, advanced Clean Cards, priority support, and premium visual themes.
 
 **Q: How do I upgrade to Premium?**
-A: Go to Profile > Subscription in the app and select your preferred plan (weekly, monthly, or yearly).
+A: Go to Profile > Subscription in the app and select your preferred plan (monthly or yearly).
 
 **Q: Can I cancel my subscription anytime?**
 A: Yes, cancel through your Apple ID Account Settings. You'll retain premium features until your subscription period ends.
@@ -142,7 +150,18 @@ A: The timer continues running in the background and will resume when you return
 ## Data and Privacy Support
 
 ### Account Deletion
-To delete your account and all associated data, you can do it in app.
+To delete your account and all associated data:
+1. Email karoljaworsky@gmail.com with subject "Account Deletion Request"
+2. Include your Apple ID email for verification
+3. Allow 7-10 business days for complete removal
+4. Note: This action is irreversible
+
+### Data Export
+To export your cleaning data:
+1. Email karoljaworsky@gmail.com with subject "Data Export Request"
+2. Specify desired format (CSV, JSON, PDF)
+3. Premium users receive priority processing
+4. Data will be emailed within 5 business days
 
 ### Privacy Concerns
 For privacy-related questions:
@@ -169,6 +188,13 @@ Help us improve Tydy by reporting bugs:
 
 ### App Store Reviews
 Leave reviews and ratings on the App Store to help other users discover Tydy!
+
+## Community and Resources
+
+### Updates and News
+- Follow app updates through the App Store
+- Check our website: https://tydy.app
+- Social media: Follow @tydy.app
 
 ### Tips and Tricks
 - Use the Daily Sparkle for quick motivation boosts
@@ -200,3 +226,18 @@ Leave reviews and ratings on the App Store to help other users discover Tydy!
 ### Business Inquiries
 - **Response Time**: 1-2 business days
 - **Follow-up**: Dedicated account management for enterprise customers
+
+## International Support
+
+### Language Support
+- **Primary**: English
+- **Additional**: English, Spanish, French, German, Portuguese, Japanese, Korean, Russian
+- **Translation**: Automated translation available for basic support
+
+### Time Zones
+- **Primary Support**: CET (Central European Time)
+- **Global**: Email support available 24/7 with response within business hours
+
+---
+
+**Need immediate help?** Email karoljaworsky@gmail.com with your question and device details. We're here to make your Tydy experience as smooth and enjoyable as possible! 

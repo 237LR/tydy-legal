@@ -1,6 +1,6 @@
 # Terms of Service for Tydy
 
-**Last Updated: [DATE]**
+**Last Updated: February 7, 2026**
 
 ## Agreement to Terms
 
@@ -48,7 +48,7 @@ You must be at least 13 years old to use this Service. By agreeing to these Term
 ## Intellectual Property Rights
 
 ### Our Content
-- The Service and its original content, features, and functionality are owned by Ceanic
+- The Service and its original content, features, and functionality are owned by Karol Jaworski
 - The Service is protected by copyright, trademark, and other laws
 - Our trademarks may not be used without our prior written permission
 
@@ -110,7 +110,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 ## Indemnification
 
-You agree to indemnify and hold harmless Ceanic from any claims, damages, or expenses arising from:
+You agree to indemnify and hold harmless Karol Jaworski from any claims, damages, or expenses arising from:
 - Your use of the Service
 - Your violation of these Terms
 - Your violation of any rights of another party
@@ -157,11 +157,12 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 If you have any questions about these Terms of Service:
 
 **Email**: karoljaworsky@gmail.com
+**Mail**: Contact via email
 
 ## Entire Agreement
 
-These Terms, together with our Privacy Policy, constitute the entire agreement between you and Ceanic regarding the Service.
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and Karol Jaworski regarding the Service.
 
 ---
 
-*These Terms of Service are effective as of June 16th 2025 and apply to all users of the Tydy mobile application.* 
+*These Terms of Service are effective as of February 7, 2026 and apply to all users of the Tydy mobile application.* 

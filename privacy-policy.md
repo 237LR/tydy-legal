@@ -1,10 +1,10 @@
 # Privacy Policy for Tydy
 
-**Last Updated: [DATE]**
+**Last Updated: February 7, 2026**
 
 ## Introduction
 
-Ceanic ("we," "our," or "us") operates the Tydy mobile application (the "Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Karol Jaworski ("we," "our," or "us") operates the Tydy mobile application (the "Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -100,9 +100,10 @@ We may update this Privacy Policy periodically. We will notify you of any materi
 If you have questions about this Privacy Policy or our privacy practices:
 
 **Email**: karoljaworsky@gmail.com
+**Mail**: Contact via email
 
 For EU residents, you have the right to lodge a complaint with your local data protection authority.
 
 ---
 
-*This Privacy Policy is effective as of [DATE] and applies to all users of the Tydy mobile application.* 
+*This Privacy Policy is effective as of February 7, 2026 and applies to all users of the Tydy mobile application.* 
